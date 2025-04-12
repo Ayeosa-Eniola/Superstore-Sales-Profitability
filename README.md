@@ -1,4 +1,4 @@
-# Superstore-Sales-Profitability
+# Superstore-Sales-Profitability - Excel
 ## Table of Content
 [DESCRIPTION](#description)
 
